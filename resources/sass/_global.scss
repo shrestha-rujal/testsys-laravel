@@ -1,0 +1,127 @@
+	
+
+.square-32 {
+	width: 32px;
+	height: 32px;
+}
+
+.navbar {
+	height: 70px;
+}
+
+.shadow-all-sides {
+	box-shadow: 0 0 40px rgba(186,186,186,0.7);
+}
+
+.standard-icon {
+	width: 36px;
+	height: 36px;
+}
+
+.search-bar {
+	height: 42px;
+	width: 380px;
+}
+
+.icon18 {
+	width: 18px;
+	height: 18px;
+}
+
+.icon24 {
+	height: 24px;
+	width: 24px;
+}
+
+.gray-text-color {
+	color: #CBD5E0;
+}
+
+.square-40 {
+	height: 40px;
+	width: 40px;
+}
+
+.new-project-button {
+	width: 130px;
+	height: 40px;
+	background: #38B2AC;
+}
+
+.filter-text {
+	letter-spacing: 0.3em;
+	font-size: 0.7em;
+}
+
+.filter-button {
+	width: 184px;
+	height: 35px;
+}
+
+.project-empty-text {
+	color: #A0AEC0;
+	font-size: 0.7em;
+	letter-spacing: 0.3;
+}
+
+.project-element {
+	height: 66px;
+	display: flex;
+	align-items: center;
+	width: 268px;
+	margin: 0.5rem;
+	border-radius: 3px;
+	border: 1px solid #E2E8F0;
+}
+
+.dark-circle {
+	border-radius: 50%;
+	background: #718096;
+	width: 30px;
+	height: 30px;
+}
+
+.dark-circle-folder {
+	top: 2.5px;
+	left: 3px;
+	padding: 2px;
+}
+
+.project-dropdown-list {
+	width: 127px;
+	height: 116.63px;
+	left: -35px;
+}
+
+.members-dropdown-list {
+	width: 127px;
+	top: 16px;
+	left: -75px;
+}
+
+.create-project-modal {
+	width: 340px;
+	top: 25rem;
+	left: 50rem;
+}
+
+.create-testcase-modal {
+	height: 488px;
+	width: 380px;
+	top: 15rem;
+	left: 40rem;
+}
+
+.invite-members-modal {
+	width: 380px;
+	top: 15rem;
+	left: 40rem;	
+}
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;  
+  border-bottom: 5px solid white;
+}
